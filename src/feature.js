@@ -3,4 +3,6 @@ console.log("src folder");
 
 console.log("feature.js");
 
-console.log("Conflict 2");
+
+console.log("conflict 1");
+
